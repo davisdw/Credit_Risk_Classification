@@ -21,18 +21,6 @@ Also noting will use the confusion matrix to find out if the data showing imbala
 
 ## Results 
 
-Using bulleted lists, describe the balanced accuracy scores and the precision and recall scores of all machine learning models.
-
-* Machine Learning Model 1:
-  * Description of Model 1 Accuracy, Precision, and Recall scores.
-
-
-
-* Machine Learning Model 2:
-  * Description of Model 2 Accuracy, Precision, and Recall scores.
-
-===============================
-
 After running the first Logistic Regression Model, the accuracy an 94 % accuracy score, however after running confusion matrix it shows the following dataset : 
 
 
